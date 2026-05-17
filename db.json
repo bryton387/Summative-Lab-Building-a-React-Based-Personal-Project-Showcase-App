@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": "ethiopian-roast",
+      "name": "Ethiopian Sunrise",
+      "description": "Bright citrus notes with a tea-like finish.",
+      "origin": "Yirgacheffe",
+      "location": "Location 1",
+      "price": 18.5,
+      "inventory": 24
+    },
+    {
+      "id": "kenyan-reserve",
+      "name": "Kenyan Reserve",
+      "description": "Jammy berry sweetness with a bold aroma.",
+      "origin": "Nyeri",
+      "location": "Location 2",
+      "price": 20,
+      "inventory": 16
+    },
+    {
+      "id": "colombian-house",
+      "name": "Colombian House",
+      "description": "Balanced caramel body for everyday brewing.",
+      "origin": "Huila",
+      "location": "Location 3",
+      "price": 15.75,
+      "inventory": 30
+    },
+    {
+      "id": "guatemala-dark",
+      "name": "Guatemala Dark",
+      "description": "Chocolate-rich roast with a smoky edge.",
+      "origin": "Antigua",
+      "location": "Location 4",
+      "price": 17.25,
+      "inventory": 11
+    }
+  ]
+}
