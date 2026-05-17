@@ -1,4 +1,4 @@
-# Coffee  Us Admin Portal
+# Coffee   Admin Portal
 
 A React single-page application for managing coffee products in an e-commerce admin experience. The app includes a landing page, a searchable shop page, and an admin portal for full product CRUD.
 
